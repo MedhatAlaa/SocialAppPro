@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-Social App Design using Firebase, 
+Social App Project (Facebook clone) with real time database(firebase) you can chat ,post ,upload images ,and communicate with friends.
+features used in the app:
 Firebase Core
 Firebase Auth
 Cloud Firestore
